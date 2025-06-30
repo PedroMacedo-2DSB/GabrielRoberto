@@ -1,0 +1,5 @@
+import React, [useState, useEffect, useRef] from 'React';
+import {view, Text, StyleSheet, touchableOpacity,
+alert} forma 'React-Native';
+
+const CELL_SIZE = 20;
